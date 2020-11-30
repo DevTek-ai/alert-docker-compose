@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["alerting", "alerting-gateway"],
+    "directoryPath": "B:/gitrepo/",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "consoleOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "MjlhNmJkMjQ2YzViOTIwYTU5ZGQzMGRjMzMzZjAwODRmY2ZlMjAxMGFlNTFmNGExYjhmNTI4NjVmYjI5ZTNhYzg5NzhiNDYxYzI4Y2E3ZjEwNDE3MWM0ZTIyMzlmNDI2MmJmNA=="
+  }
+}
